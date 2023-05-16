@@ -14,7 +14,7 @@ mehr Sichtbarkeit verschaffen und auch bei der Weiterführung und der Umsetzung 
 
 ## Du möchtest mitmachen? 
 
-* Schau in unserem [Github-Planungsboard bei den Einsteiger-Aufgaben](https://github.com/orgs/digifarm-ms/projects/2/views/2), ob etwas für Dich dabei ist.
+* Schau in unserem [Github-Planungsboard](https://github.com/orgs/digifarm-ms/projects/2/views/1) bei den [Einsteiger-Aufgaben](https://github.com/orgs/digifarm-ms/projects/2/views/2), ob etwas für Dich dabei ist.
 * Oder such' Dir auf der [Digifarm-Homepage ein Projekt](https://www.stadt-muenster.de/digifarm/projekte/) aus, das Du unterstützen möchtest.
 * Komm' zu einem der [CodeForMünster-Treffen](https://www.meetup.com/code-for-munster), dort ist fast immer ein/e DIGIFARMer/in dabei.
 * Joine unseren [Matrix-Channel **#digifarm-ms_community:gitter.im**](https://matrix.to/#/#digifarm-ms_community:gitter.im). Dort posten wir auch gelegentlich aktuelle Informationen und Updates. 
